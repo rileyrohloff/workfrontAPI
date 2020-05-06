@@ -14,7 +14,7 @@ def url_get(a):
 attask = url_get('https://rileyrohloff.my.workfront.com/version')
 
 #API key for my Workfront user to make HTTPS request while not logged in. Or for running a script in the python shell
-api_key = 'kp47ke3dypk8sq72l82ylj8xnfaqvydj'
+api_key = 'apikeygoeshere'
 
 
 # function that encompasses my url_get function to make the URL more dynamic for my request. 
